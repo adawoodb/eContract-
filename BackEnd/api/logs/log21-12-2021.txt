@@ -1,0 +1,28 @@
+[21-12-2021 01:00:25]  #### Start #### 
+[21-12-2021 01:00:25] verify 5 file(s)..
+[21-12-2021 01:00:25] verify file: '../input_files/Dn0VIxw8bTUKS7dtu1acF3LP.pdf'
+[21-12-2021 01:00:26] no signature ..
+[21-12-2021 01:00:26] verify file: '../input_files/GursJZmEbCeIzyQOdMlxX19R.pdf'
+[21-12-2021 01:00:27] 1 Signature(s) found...
+[21-12-2021 01:00:27] Validate signature #1
+[21-12-2021 01:00:27] certs expired or signature integrity not ok or  cert not belong to NCDC root ..
+[21-12-2021 01:00:27] verify file: '../input_files/IG5N739nB0MiyOqDvEoFfTja.pdf'
+[21-12-2021 01:00:27] 1 Signature(s) found...
+[21-12-2021 01:00:27] Validate signature #1
+[21-12-2021 01:00:27] Checking Revocation ...
+[21-12-2021 01:00:28] Checking Revocation Result: Revoked
+[21-12-2021 01:00:28] verify file: '../input_files/5XDd9KmlBVuyN81OeMU24tcT.pdf'
+[21-12-2021 01:00:28] 2 Signature(s) found...
+[21-12-2021 01:00:28] Validate signature #1
+[21-12-2021 01:00:28] Checking Revocation ...
+[21-12-2021 01:00:28] Checking Revocation Result: Valid
+[21-12-2021 01:00:28] Validate signature #2
+[21-12-2021 01:00:28] valid signature(s)
+[21-12-2021 01:00:28] verify file: '../input_files/sWtD8hJ9Q3LnARog05lXTHcb.pdf'
+[21-12-2021 01:00:28] 1 Signature(s) found...
+[21-12-2021 01:00:28] Validate signature #1
+[21-12-2021 01:00:28] Checking Revocation ...
+[21-12-2021 01:00:29] Checking Revocation Result: Valid
+[21-12-2021 01:00:29] valid signature(s)
+[21-12-2021 01:00:29]  #### Finish #### 
+[21-12-2021 01:00:29]  ################################################ 

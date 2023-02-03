@@ -1,0 +1,165 @@
+[03-11-2021 00:03:59]  #### Start #### 
+[03-11-2021 00:03:59] verify 1 file(s)..
+[03-11-2021 00:03:59] verify file: '../input_files/3XoGTwU2FjdWif0vQbqxnezc.pdf'
+[03-11-2021 00:04:00] 2 Signature(s) found...
+[03-11-2021 00:04:00] Validate signature #1
+[03-11-2021 00:04:00] Checking Revocation ...
+[03-11-2021 00:04:01] Checking Revocation Result: Valid
+[03-11-2021 00:04:01] Validate signature #2
+[03-11-2021 00:04:01] Checking Revocation ...
+[03-11-2021 00:04:01] Checking Revocation Result: Valid
+[03-11-2021 00:04:01] valid signature(s)
+[03-11-2021 00:04:01]  #### Finish #### 
+[03-11-2021 00:04:01]  ################################################ 
+[03-11-2021 00:06:32]  #### Start #### 
+[03-11-2021 00:06:33] verify 1 file(s)..
+[03-11-2021 00:06:33] verify file: '../input_files/T3gLOclJ1uY69GSyKtjsBq5V.pdf'
+[03-11-2021 00:06:33] 2 Signature(s) found...
+[03-11-2021 00:06:33] Validate signature #1
+[03-11-2021 00:06:33] Checking Revocation ...
+[03-11-2021 00:06:34] Checking Revocation Result: Valid
+[03-11-2021 00:06:34] Validate signature #2
+[03-11-2021 00:06:34] Checking Revocation ...
+[03-11-2021 00:06:35] Checking Revocation Result: Valid
+[03-11-2021 00:06:35] valid signature(s)
+[03-11-2021 00:06:35]  #### Finish #### 
+[03-11-2021 00:06:35]  ################################################ 
+[03-11-2021 00:08:29]  #### Start #### 
+[03-11-2021 00:08:30] verify 1 file(s)..
+[03-11-2021 00:08:30] verify file: '../input_files/JsGSvnQ08OVXdktpEZ9zqPTc.pdf'
+[03-11-2021 00:08:30] 2 Signature(s) found...
+[03-11-2021 00:08:30] Validate signature #1
+[03-11-2021 00:08:30] Checking Revocation ...
+[03-11-2021 00:08:31] Checking Revocation Result: Valid
+[03-11-2021 00:08:31] Validate signature #2
+[03-11-2021 00:08:31] Checking Revocation ...
+[03-11-2021 00:08:32] Checking Revocation Result: Valid
+[03-11-2021 00:08:32] valid signature(s)
+[03-11-2021 00:08:32]  #### Finish #### 
+[03-11-2021 00:08:32]  ################################################ 
+[03-11-2021 00:09:15]  #### Start #### 
+[03-11-2021 00:09:15] verify 4 file(s)..
+[03-11-2021 00:09:15] verify file: '../input_files/OUHJ4SwyYbu6D7p1fBtesR2Z.pdf'
+[03-11-2021 00:09:16] 2 Signature(s) found...
+[03-11-2021 00:09:16] Validate signature #1
+[03-11-2021 00:09:16] Checking Revocation ...
+[03-11-2021 00:09:17] Checking Revocation Result: Valid
+[03-11-2021 00:09:17] Validate signature #2
+[03-11-2021 00:09:17] Checking Revocation ...
+[03-11-2021 00:09:18] Checking Revocation Result: Valid
+[03-11-2021 00:09:18] valid signature(s)
+[03-11-2021 00:09:18] verify file: '../input_files/okRYlSBXTGy1uxH8j79qIVE3.pdf'
+[03-11-2021 00:09:18] 2 Signature(s) found...
+[03-11-2021 00:09:18] Validate signature #1
+[03-11-2021 00:09:18] Checking Revocation ...
+[03-11-2021 00:09:18] Checking Revocation Result: Valid
+[03-11-2021 00:09:18] Validate signature #2
+[03-11-2021 00:09:18] Checking Revocation ...
+[03-11-2021 00:09:19] Checking Revocation Result: Valid
+[03-11-2021 00:09:19] valid signature(s)
+[03-11-2021 00:09:19] verify file: '../input_files/Ctq346K2dlchXFwufjoTGpAV.pdf'
+[03-11-2021 00:09:19] 1 Signature(s) found...
+[03-11-2021 00:09:19] Validate signature #1
+[03-11-2021 00:09:19] Checking Revocation ...
+[03-11-2021 00:09:20] Checking Revocation Result: Valid
+[03-11-2021 00:09:20] valid signature(s)
+[03-11-2021 00:09:20] verify file: '../input_files/txNHILg1flGsYy3KnSiu9kDh.pdf'
+[03-11-2021 00:09:20] 9 Signature(s) found...
+[03-11-2021 00:09:20] Validate signature #1
+[03-11-2021 00:09:20] Checking Revocation ...
+[03-11-2021 00:09:21] Checking Revocation Result: Valid
+[03-11-2021 00:09:21] Validate signature #2
+[03-11-2021 00:09:21] Checking Revocation ...
+[03-11-2021 00:09:21] Checking Revocation Result: Valid
+[03-11-2021 00:09:21] Validate signature #3
+[03-11-2021 00:09:21] Checking Revocation ...
+[03-11-2021 00:09:22] Checking Revocation Result: Valid
+[03-11-2021 00:09:22] Validate signature #4
+[03-11-2021 00:09:22] Checking Revocation ...
+[03-11-2021 00:09:23] Checking Revocation Result: Valid
+[03-11-2021 00:09:23] Validate signature #5
+[03-11-2021 00:09:23] Checking Revocation ...
+[03-11-2021 00:09:23] Checking Revocation Result: Valid
+[03-11-2021 00:09:23] Validate signature #6
+[03-11-2021 00:09:23] Checking Revocation ...
+[03-11-2021 00:09:24] Checking Revocation Result: Valid
+[03-11-2021 00:09:24] Validate signature #7
+[03-11-2021 00:09:24] Checking Revocation ...
+[03-11-2021 00:09:24] Checking Revocation Result: Valid
+[03-11-2021 00:09:24] Validate signature #8
+[03-11-2021 00:09:25] Checking Revocation ...
+[03-11-2021 00:09:25] Checking Revocation Result: Valid
+[03-11-2021 00:09:25] Validate signature #9
+[03-11-2021 00:09:25] Checking Revocation ...
+[03-11-2021 00:09:26] Checking Revocation Result: Valid
+[03-11-2021 00:09:26] valid signature(s)
+[03-11-2021 00:09:26]  #### Finish #### 
+[03-11-2021 00:09:26]  ################################################ 
+[03-11-2021 12:15:01]  #### Start #### 
+[03-11-2021 12:15:01] verify 1 file(s)..
+[03-11-2021 12:15:01] verify file: '../input_files/cuqEGPL4xAiKTl7DNsgmZ0kh.pdf'
+[03-11-2021 12:15:02] 9 Signature(s) found...
+[03-11-2021 12:15:02] Validate signature #1
+[03-11-2021 12:15:02] Checking Revocation ...
+[03-11-2021 12:15:03] Checking Revocation Result: Valid
+[03-11-2021 12:15:03] Validate signature #2
+[03-11-2021 12:15:03] Checking Revocation ...
+[03-11-2021 12:15:04] Checking Revocation Result: Valid
+[03-11-2021 12:15:04] Validate signature #3
+[03-11-2021 12:15:04] Checking Revocation ...
+[03-11-2021 12:15:04] Checking Revocation Result: Valid
+[03-11-2021 12:15:04] Validate signature #4
+[03-11-2021 12:15:04] Checking Revocation ...
+[03-11-2021 12:15:05] Checking Revocation Result: Valid
+[03-11-2021 12:15:05] Validate signature #5
+[03-11-2021 12:15:05] Checking Revocation ...
+[03-11-2021 12:15:06] Checking Revocation Result: Valid
+[03-11-2021 12:15:06] Validate signature #6
+[03-11-2021 12:15:06] Checking Revocation ...
+[03-11-2021 12:15:06] Checking Revocation Result: Valid
+[03-11-2021 12:15:06] Validate signature #7
+[03-11-2021 12:15:06] Checking Revocation ...
+[03-11-2021 12:15:07] Checking Revocation Result: Valid
+[03-11-2021 12:15:07] Validate signature #8
+[03-11-2021 12:15:07] Checking Revocation ...
+[03-11-2021 12:15:07] Checking Revocation Result: Valid
+[03-11-2021 12:15:07] Validate signature #9
+[03-11-2021 12:15:07] Checking Revocation ...
+[03-11-2021 12:15:08] Checking Revocation Result: Valid
+[03-11-2021 12:15:08] valid signature(s)
+[03-11-2021 12:15:08]  #### Finish #### 
+[03-11-2021 12:15:08]  ################################################ 
+[03-11-2021 12:15:39]  #### Start #### 
+[03-11-2021 12:15:39] verify 1 file(s)..
+[03-11-2021 12:15:39] verify file: '../input_files/kN1WXFVCE6cp7xugQAym9teT.pdf'
+[03-11-2021 12:15:40] 9 Signature(s) found...
+[03-11-2021 12:15:40] Validate signature #1
+[03-11-2021 12:15:40] Checking Revocation ...
+[03-11-2021 12:15:41] Checking Revocation Result: Valid
+[03-11-2021 12:15:41] Validate signature #2
+[03-11-2021 12:15:41] Checking Revocation ...
+[03-11-2021 12:15:41] Checking Revocation Result: Valid
+[03-11-2021 12:15:41] Validate signature #3
+[03-11-2021 12:15:41] Checking Revocation ...
+[03-11-2021 12:15:42] Checking Revocation Result: Valid
+[03-11-2021 12:15:42] Validate signature #4
+[03-11-2021 12:15:42] Checking Revocation ...
+[03-11-2021 12:15:43] Checking Revocation Result: Valid
+[03-11-2021 12:15:43] Validate signature #5
+[03-11-2021 12:15:43] Checking Revocation ...
+[03-11-2021 12:15:43] Checking Revocation Result: Valid
+[03-11-2021 12:15:43] Validate signature #6
+[03-11-2021 12:15:43] Checking Revocation ...
+[03-11-2021 12:15:44] Checking Revocation Result: Valid
+[03-11-2021 12:15:44] Validate signature #7
+[03-11-2021 12:15:44] Checking Revocation ...
+[03-11-2021 12:15:44] Checking Revocation Result: Valid
+[03-11-2021 12:15:44] Validate signature #8
+[03-11-2021 12:15:44] Checking Revocation ...
+[03-11-2021 12:15:45] Checking Revocation Result: Valid
+[03-11-2021 12:15:45] Validate signature #9
+[03-11-2021 12:15:45] Checking Revocation ...
+[03-11-2021 12:15:46] Checking Revocation Result: Valid
+[03-11-2021 12:15:46] valid signature(s)
+[03-11-2021 12:15:46]  #### Finish #### 
+[03-11-2021 12:15:46]  ################################################ 

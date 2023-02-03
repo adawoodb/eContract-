@@ -1,0 +1,52 @@
+[16-03-2022 06:14:55]  #### Start #### 
+[16-03-2022 06:14:56] verify 1 file(s)..
+[16-03-2022 06:14:56] verify file: '../input_files/v6n7Dg1jNVtZesH98ma4wchq.pdf'
+[16-03-2022 06:14:57] no signature ..
+[16-03-2022 06:14:57]  #### Finish #### 
+[16-03-2022 06:14:57]  ################################################ 
+[16-03-2022 06:15:39]  #### Start #### 
+[16-03-2022 06:15:39] verify 1 file(s)..
+[16-03-2022 06:15:39] verify file: '../input_files/Wutb8B3x5ryEKsVjpHQ6v9zA.pdf'
+[16-03-2022 06:15:40] no signature ..
+[16-03-2022 06:15:40]  #### Finish #### 
+[16-03-2022 06:15:40]  ################################################ 
+[16-03-2022 06:17:03]  #### Start #### 
+[16-03-2022 06:17:04] verify 1 file(s)..
+[16-03-2022 06:17:04] verify file: '../input_files/PYBvIGTjVUeCoNJSAiFmZ9M3.pdf'
+[16-03-2022 06:17:05] 1 Signature(s) found...
+[16-03-2022 06:17:05] Validate signature #1
+[16-03-2022 06:17:05] certs expired or signature integrity not ok or  cert not belong to NCDC root ..
+[16-03-2022 06:17:05]  #### Finish #### 
+[16-03-2022 06:17:05]  ################################################ 
+[16-03-2022 06:21:36]  #### Start #### 
+[16-03-2022 06:21:37] verify 1 file(s)..
+[16-03-2022 06:21:37] verify file: '../input_files/62LA3dlQqsSe5IZ7kWipcufG.pdf'
+[16-03-2022 06:21:37] no signature ..
+[16-03-2022 06:21:37]  #### Finish #### 
+[16-03-2022 06:21:37]  ################################################ 
+[16-03-2022 06:36:33]  #### Start #### 
+[16-03-2022 06:36:33] verify 1 file(s)..
+[16-03-2022 06:36:33] verify file: '../input_files/xGXzoHb18re0TEf5mn7QYDUl.pdf'
+[16-03-2022 06:36:34] 2 Signature(s) found...
+[16-03-2022 06:36:34] Validate signature #1
+[16-03-2022 06:36:34] Checking Revocation ...
+[16-03-2022 06:36:35] Checking Revocation Result: Valid
+[16-03-2022 06:36:35] Validate signature #2
+[16-03-2022 06:36:35] Checking Revocation ...
+[16-03-2022 06:36:35] Checking Revocation Result: Valid
+[16-03-2022 06:36:35] valid signature(s)
+[16-03-2022 06:36:35]  #### Finish #### 
+[16-03-2022 06:36:35]  ################################################ 
+[16-03-2022 06:39:58]  #### Start #### 
+[16-03-2022 06:39:58] verify 1 file(s)..
+[16-03-2022 06:39:58] verify file: '../input_files/1NoJjPEnKtmMrkx9fd052BZR.pdf'
+[16-03-2022 06:39:59] 2 Signature(s) found...
+[16-03-2022 06:39:59] Validate signature #1
+[16-03-2022 06:39:59] Checking Revocation ...
+[16-03-2022 06:40:03] Checking Revocation Result: Valid
+[16-03-2022 06:40:03] Validate signature #2
+[16-03-2022 06:40:03] Checking Revocation ...
+[16-03-2022 06:40:04] Checking Revocation Result: Valid
+[16-03-2022 06:40:04] valid signature(s)
+[16-03-2022 06:40:04]  #### Finish #### 
+[16-03-2022 06:40:04]  ################################################ 
